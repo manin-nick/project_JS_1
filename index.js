@@ -2,18 +2,18 @@
 
 // Задача: Простое объявление переменной
 let greeting = "Hello, World!";
-console.log (greeting);
+console.log(greeting);
 
 // Задача: Работа с числами
 let a = 5;
 let b = 10;
 let sum = a + b;
-console.log (sum);
+console.log(sum);
 
 // Задача: Изменение значения переменной
 let name = "Alice";
-name ="Bob";
-console.log (name);
+name = "Bob";
+console.log(name);
 
 // Типы данных
 
@@ -21,14 +21,12 @@ console.log (name);
 let string = "Hello";
 let number = 42;
 let boolean = true;
-console.log (typeof string);
-console.log (typeof number);
-console.log (typeof boolean);
+console.log(typeof string, typeof number, typeof boolean);
 
 // Задача: Преобразование данных в строку
 let age = 25;
 let str = String(age);
-console.log (str);
+console.log(str);
 
 // Задача: Объединение строк
 let firstName = "John";
